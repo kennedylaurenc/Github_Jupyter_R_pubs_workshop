@@ -1,0 +1,27 @@
+
+<table style="text-align:center"><tr><td colspan="6" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td>state</td><td>month</td><td>counts</td><td>mean_parks</td><td>mean_retail_recreation</td></tr>
+<tr><td colspan="6" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">1</td><td>Arkansas</td><td>01</td><td>1.94e+03</td><td>-9.880</td><td>-13.450</td></tr>
+<tr><td style="text-align:left">2</td><td>California</td><td>01</td><td>1.75e+03</td><td>-19.100</td><td>-30.070</td></tr>
+<tr><td style="text-align:left">3</td><td>Arkansas</td><td>02</td><td>2.78e+03</td><td>-10.590</td><td>-6.440</td></tr>
+<tr><td style="text-align:left">4</td><td>California</td><td>02</td><td>2.43e+03</td><td>4.490</td><td>-11.880</td></tr>
+<tr><td style="text-align:left">5</td><td>Arkansas</td><td>03</td><td>4.10e+03</td><td>39.630</td><td>-0.320</td></tr>
+<tr><td style="text-align:left">6</td><td>California</td><td>03</td><td>3.51e+03</td><td>-2.400</td><td>-15.590</td></tr>
+<tr><td style="text-align:left">7</td><td>Arkansas</td><td>04</td><td>3.88e+03</td><td>44.400</td><td>-6.430</td></tr>
+<tr><td style="text-align:left">8</td><td>California</td><td>04</td><td>3.39e+03</td><td>-5.160</td><td>-26.810</td></tr>
+<tr><td style="text-align:left">9</td><td>Arkansas</td><td>05</td><td>3.87e+03</td><td>68.430</td><td>2.380</td></tr>
+<tr><td style="text-align:left">10</td><td>California</td><td>05</td><td>3.48e+03</td><td>12.110</td><td>-21.040</td></tr>
+<tr><td style="text-align:left">11</td><td>Arkansas</td><td>06</td><td>3.83e+03</td><td>88.560</td><td>5.190</td></tr>
+<tr><td style="text-align:left">12</td><td>California</td><td>06</td><td>3.37e+03</td><td>31.090</td><td>-12.730</td></tr>
+<tr><td style="text-align:left">13</td><td>Arkansas</td><td>07</td><td>3.98e+03</td><td>85.950</td><td>2.860</td></tr>
+<tr><td style="text-align:left">14</td><td>California</td><td>07</td><td>3.48e+03</td><td>39.850</td><td>-10.610</td></tr>
+<tr><td style="text-align:left">15</td><td>Arkansas</td><td>08</td><td>3.24e+03</td><td>63.540</td><td>2.490</td></tr>
+<tr><td style="text-align:left">16</td><td>California</td><td>08</td><td>3.30e+03</td><td>24.170</td><td>-12.430</td></tr>
+<tr><td style="text-align:left">17</td><td>Arkansas</td><td>09</td><td>2.80e+03</td><td>74.310</td><td>0.310</td></tr>
+<tr><td style="text-align:left">18</td><td>California</td><td>09</td><td>2.75e+03</td><td>10.470</td><td>-14.680</td></tr>
+<tr><td style="text-align:left">19</td><td>Arkansas</td><td>10</td><td>1.96e+03</td><td>55.740</td><td>-4.200</td></tr>
+<tr><td style="text-align:left">20</td><td>California</td><td>10</td><td>1.74e+03</td><td>8.380</td><td>-17.720</td></tr>
+<tr><td style="text-align:left">21</td><td>Arkansas</td><td>11</td><td>1.90e+03</td><td>31.030</td><td>-9.590</td></tr>
+<tr><td style="text-align:left">22</td><td>California</td><td>11</td><td>1.69e+03</td><td>-7.430</td><td>-21.400</td></tr>
+<tr><td style="text-align:left">23</td><td>Arkansas</td><td>12</td><td>2.00e+03</td><td>9.190</td><td>-9.020</td></tr>
+<tr><td style="text-align:left">24</td><td>California</td><td>12</td><td>1.75e+03</td><td>-17.950</td><td>-25.590</td></tr>
+<tr><td colspan="6" style="border-bottom: 1px solid black"></td></tr></table>
